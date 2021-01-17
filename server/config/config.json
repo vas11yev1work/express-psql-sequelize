@@ -6,10 +6,10 @@
     "host": "localhost",
     "dialect": "postgres"
   },
-  "test": {
-    "username": "vasilyev",
+  "production": {
+    "username": "postgres",
     "password": "anatoliy23042394",
-    "database": "todos_test",
+    "database": "todos",
     "host": "localhost",
     "dialect": "postgres"
   }
