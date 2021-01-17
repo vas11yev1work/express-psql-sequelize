@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "vasilyev",
+    "password": "anatoliy23042394",
+    "database": "todos_dev",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "vasilyev",
+    "password": "anatoliy23042394",
+    "database": "todos_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
